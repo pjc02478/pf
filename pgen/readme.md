@@ -35,7 +35,7 @@ ruby pgen.rb -s packet_def.rb -d 출력 경로1,출력 경로2,...
 TestModule
 ----
 * 작성된 스키마로 서버를 테스트 해 볼 수 있도록 테스트 모듈이 제공됩니다.
-```rubty
+```ruby
 class LoginTest < RocketTestUnit
   def query
     p = LoginRequest.new
