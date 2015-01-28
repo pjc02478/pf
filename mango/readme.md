@@ -32,3 +32,11 @@ button->clickedHandler =
 
 Screenshots
 ----
+![a](img/prev1.png)<br>
+![b](img/prev2.png)<br>
+![c](img/prev3.png)<br>
+![d](img/prev4.png)<br>
+![e](img/prev5.png)<br>
+![f](img/prev6.png)<br>
+![g](img/prev7.png)<br>
+![h](img/prev8.png)
