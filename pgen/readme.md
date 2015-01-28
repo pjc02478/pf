@@ -2,6 +2,7 @@ pgen 패킷 빌더
 ====
 
 * 작성 언어 : Ruby
+* 설명 : 패킷을 정의하고 빌드하여 C/C++에서 작성된 서버/클라이언트에서 사용할 수 있도록 해주는 툴입니다.
 
 Example
 ----
@@ -29,3 +30,37 @@ end
 ```
 ruby pgen.rb -s packet_def.rb -d 출력 경로1,출력 경로2,...
 ```
+
+
+TestModule
+----
+* 작성된 스키마로 서버를 테스트 해 볼 수 있도록 테스트 모듈이 제공됩니다.
+```rubty
+class LoginTest < RocketTestUnit
+  def query
+    p = LoginRequest.new
+    p.user_id = "pjc0247"
+    p.user_pw = "some_password"
+    return p
+  end
+  def should
+    p = LoginResponse.new
+    p.result = 1
+    return p
+  end
+end
+```
+```ruby
+RocketTestPool.execute \
+  [LoginTest, EnterRoomTest, LeaveRoomTest]
+```
+
+* 테스트 실행
+```
+Passed LoginTest - 0.0001sec
+Failed SomeTest - foo is 'hello' (expected 'world')
+```
+
+관련 프로젝트
+----
+* (CornFlakes)[https://github.com/pjc0247/CornFlakes]
