@@ -11,5 +11,10 @@ cocopang
 Screenshots
 ----
 ![a](img/prev1.jpg)<br>
-![a](img/prev1.jpg)<br>
-![a](img/prev1.jpg)<br>![a](img/prev1.jpg)<br>
+![b](img/prev2.jpg)<br>
+![c](img/prev3.jpg)<br>
+![d](img/prev4.jpg)<br>
+![e](img/prev5.png)<br>
+![f](img/prev6.png)<br>
+![g](img/prev7.jpg)<br>
+![e](img/prev8.JPG)<br>
