@@ -32,6 +32,7 @@ Example
   
   /* 변경된 값은 response이후에 자동으로 커밋된다. */
   $account->nickname = $new_nickname;
+?>
 ```
 
 IN attributes
