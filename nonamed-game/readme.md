@@ -3,3 +3,7 @@
 
 Screenshots
 ----
+![a](img/prev1.png)<br>
+![b](img/prev2.png)<br>
+![c](img/prev3.png)<br>
+![d](img/prev4.png)
