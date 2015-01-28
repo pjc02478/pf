@@ -63,4 +63,4 @@ Failed SomeTest - foo is 'hello' (expected 'world')
 
 관련 프로젝트
 ----
-* (CornFlakes)[https://github.com/pjc0247/CornFlakes]
+* [CornFlakes](https://github.com/pjc0247/CornFlakes)
