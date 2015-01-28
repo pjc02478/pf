@@ -11,6 +11,6 @@ DrugAddiction
   
 Screenshots
 -----
-![img/prev1.jpg]<br>
-![img/prev2.jpg]<br>
-![img/prev3.jpg]
+![img/prev1.jpg](img/prev1.jpg)<br>
+![img/prev2.jpg](img/prev2.jpg)<br>
+![img/prev3.jpg](img/prev3.jpg)
