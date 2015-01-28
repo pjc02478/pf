@@ -5,7 +5,7 @@ SpriteTool
 
 기능
 ----
-* 웹에서 줏어온 스프라이트([예시](http://www.spriters-resource.com/mobile/adventuretimeheroesofooo/sheet/64447/))를 쓰기 편하게 잘라주는 툴
+* 웹에서 가져온 스프라이트([예시](http://www.spriters-resource.com/mobile/adventuretimeheroesofooo/sheet/64447/))를 쓰기 편하게 잘라주는 툴입니다.
 * 자동으로 배경 투명화해서 PNG로 저장
 
 예시
