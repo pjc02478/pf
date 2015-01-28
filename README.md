@@ -10,6 +10,8 @@
 * [pgen](pgen/readme.md)
 * [EventPie](eventpie/readme.md)
 * [storm](storm/readme.md)
+* [coco](coco/readme.md)
+* [choco](choco/readme.md)
 
 네트워크 게임 프로젝트
 ----
