@@ -38,7 +38,7 @@ new Timer(
     if( life == 0) delete timer;
   }, 150);
 ```
-* __Task__<br>
+* __Task__<br><br>
 Task는 EventPie에서 처리하는 작업의 단위입니다.<br>
 defer함수를 이용해 태스크를 뒤로 미룰 수 있습니다. (node의 nextTick과 같은 역할)
 ```C++
