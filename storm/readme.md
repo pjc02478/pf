@@ -3,6 +3,7 @@ STORM
 
 * __작성 언어__ : C++
 * __설명__ : C++를 위한 MYSQL ORM입니다. 내부적으로 connection-pool을 가지고 있습니다.
+* __개발 인원__ : 1인
 
 Example
 ----
