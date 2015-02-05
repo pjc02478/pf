@@ -2,6 +2,7 @@ SpriteTool
 ====
 
 * __사용 언어__ : javascript
+* __개발 인원__ : 1명
 
 기능
 ----
