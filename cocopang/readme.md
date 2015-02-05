@@ -8,6 +8,9 @@ cocopang
 * __역할__ : 클라이언트 개발 전체, 서버 프로토타입 개발(초기)
 * __개발 인원__ : 2명 (프로그래밍파트만)
 * __담당 역할__ : 클라이언트 프로그래밍 전체
+* __동영상__ 
+  * [인트로](https://www.youtube.com/watch?v=IzeTmUca3a0)
+  * [인게임](https://www.youtube.com/watch?v=YWHOwSkJkUo)
 * 기획이 여러 번 바뀌어서 다양한 버전이 있습니다.
 
 Screenshots
